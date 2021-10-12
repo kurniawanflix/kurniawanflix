@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David.
 - 👀 I’m interested in Mobile Apps Developer.
-- 🌱 I’m currently learning pyhton, c++, and dart.
+- 🌱 I’m currently learning Pyhton, C++, and Dart.
 - 📫 How to reach me :
   ~ Instagram : @kurniawanflix
 <!--
