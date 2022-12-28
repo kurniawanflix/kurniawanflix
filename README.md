@@ -77,14 +77,11 @@
 <a href="https://code.visualstudio.com/" target="_blank">
 <img src=https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white alt=vscode style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank">
-<img src=https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white alt=windows style="margin-bottom: 5px;" />
+<a href="https://www.apple.com/id/macos/ventura/" target="_blank">
+<img src=https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white alt=macos style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.amd.com/en/products/apu/amd-ryzen-5-3550h" target="_blank">
-<img src=https://img.shields.io/badge/AMD-Ryzen_5_3500H-ED1C24?style=for-the-badge&logo=amd&logoColor=white alt=cpu style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.nvidia.com/content/apac/event/id/overwatch-campaign/geforce-gtx-1050.html" target="_blank">
-<img src=https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white alt=gpu style="margin-bottom: 5px;" />
+<a href="https://support.apple.com/kb/SP870?locale=id_ID" target="_blank">
+<img src=https://img.shields.io/badge/Apple-MacBook_Pro_M2_2022-999999?style=for-the-badge&logo=apple&logoColor=white alt=mac style="margin-bottom: 5px;" />
 </a>
 </p>
 
