@@ -38,7 +38,7 @@
 <a href="https://getbootstrap.com/" target="_blank">
 <img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white alt=bootstrap style="margin-bottom: 5px;" />
 </a>
-<a href="https://https://www.swift.org/" target="_blank">
+<a href="https://www.swift.org/" target="_blank">
 <img src=https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white alt=swift style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.javascript.com/" target="_blank">
