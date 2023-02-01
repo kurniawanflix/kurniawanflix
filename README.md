@@ -55,7 +55,7 @@
 </a>
 <a href="https://www.figma.com/" target="_blank">
 <img src=https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white alt=figma style="margin-bottom: 5px;" />
-</a
+ </a>
 <a href="https://developer.apple.com/xcode/" target="_blank">
 <img src=https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white alt=androidstudio style="margin-bottom: 5px;" />
 </a>
