@@ -25,9 +25,9 @@
       <p><b>Certified ICT Project Manager & Software Engineer.</b></p>
       <p>Based in Indonesia. Currently working at <i>PT Putra Wijayakusuma Sakti</i>, Semarang.</p>
       <br>
-      <code><b>01</b></code> &nbsp; <b>iOS Specialist</b> — Swift, SwiftUI, & VIPER Architecture.<br>
-      <code><b>02</b></code> &nbsp; <b>Full Stack</b> — Scaling with Laravel, Filament, & React.<br>
-      <code><b>03</b></code> &nbsp; <b>Infrastructure</b> — Proxmox & GitLab CI/CD Pipelines.<br>
+      <code><b>01</b></code> &nbsp; <b>Full Stack</b> — Scaling with Laravel, Filament, & React.<br>
+      <code><b>02</b></code> &nbsp; <b>Infrastructure</b> — Proxmox & GitLab CI/CD Pipelines.<br>
+      <code><b>03</b></code> &nbsp; <b>iOS Specialist</b> — Swift, SwiftUI, & VIPER Architecture.<br>
     </td>
     <td width="45%" align="right" valign="top">
        <img src="https://github-readme-stats.vercel.app/api?username=kurniawanflix&show_icons=true&hide_border=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6&text_color=86868B&bg_color=00000000" width="100%"/>
