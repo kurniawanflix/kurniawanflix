@@ -23,7 +23,7 @@
   <tr>
     <td width="55%" valign="top">
       <p><b>Certified ICT Project Manager & Software Engineer.</b></p>
-      <p>Based in Indonesia. Currently working at <i>PT Putra Wijayakusuma Sakti</i>.</p>
+      <p>Based in Indonesia. Currently working at <i>PT Putra Wijayakusuma Sakti</i>, Semarang.</p>
       <br>
       <code><b>01</b></code> &nbsp; <b>iOS Specialist</b> — Swift, SwiftUI, & VIPER Architecture.<br>
       <code><b>02</b></code> &nbsp; <b>Full Stack</b> — Scaling with Laravel, Filament, & React.<br>
