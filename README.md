@@ -101,5 +101,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=kurniawanflix&theme=transparent&hide_border=true&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakNum=86868B&sideLabels=86868B&dates=86868B&bg_color=00000000" width="95%"/>
       </td>
     </tr>
-  </table>  
+  </table>
+  <br>
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpjZHozajg5YzVrcjc1OTJ2dmM0c2NlZzB2bG5tb2JpajBwa2VyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif"/>
 </div>
