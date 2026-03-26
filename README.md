@@ -103,5 +103,5 @@
     </tr>
   </table>
   <br>
- <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhranpwM3F4NnVtbGM2NzZ5dGU1Z3pzOXQzOGlyenNoZzFvZHdjZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif"/>
+ <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZGhranpwM3F4NnVtbGM2NzZ5dGU1Z3pzOXQzOGlyenNoZzFvZHdjZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HLB0nLA36GCCo6JuB5/giphy.gif" width="100%" alt="Programmer Meme"/>
 </div>
